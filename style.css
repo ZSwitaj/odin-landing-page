@@ -1,0 +1,41 @@
+.logo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    padding: 24px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.header-links {
+    display: flex;
+    gap: 16px;
+    padding: 24px;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    margin-right: 200px;
+}
+
+.top-section {
+    background-color: #1F2937;
+    color: white;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+li {
+    list-style: none;
+}
